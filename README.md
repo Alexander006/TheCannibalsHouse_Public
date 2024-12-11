@@ -47,21 +47,21 @@ damage, he can search for bandages in drawers that will partially heal the playe
 12. When the player swings a sword to the enemy, the enemy must inflict damage.
 
 ## State Diagram
-![Game State Diagram](./GameTemplate/assets/images/GameStateDiagram.png)
+![Game State Diagram](./Game-Template/assets/images/GameStateDiagram.png)
 
-![Player State Diagram](./GameTemplate/assets/images/PlayerStateDiagram.png)
+![Player State Diagram](./Game-Template/assets/images/PlayerStateDiagram.png)
 
-![Enemy State Diagram](./GameTemplate/assets/images/EnemyStateDiagram.png)
+![Enemy State Diagram](./Game-Template/assets/images/EnemyStateDiagram.png)
 
 ### 🗺️ Class Diagram
-![Entity Class Diagram](./GameTemplate/assets/images/Entity%20Class%20Diagram.png)
+![Entity Class Diagram](./Game-Template/assets/images/Entity%20Class%20Diagram.png)
 
-![Object Class Diagram](./GameTemplate/assets/images/Object%20Class%20Diagram.png)
+![Object Class Diagram](./Game-Template/assets/images/Object%20Class%20Diagram.png)
 
-![Enemy Factory](./GameTemplate/assets/images/EnemyFactory.png)
+![Enemy Factory](./Game-Template/assets/images/EnemyFactory.png)
 
 ## 🧵 Wireframe
-![Wireframe](./GameTemplate/assets/images/Wireframe.png)
+![Wireframe](./Game-Template/assets/images/Wireframe.png)
 
 ### 🎨 Assets
 
