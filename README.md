@@ -1,4 +1,4 @@
-# TheCannibalsHouse_Public
+# The Cannibal's House Public
 
 ### Context
 This project was created by me and a former colleague of mine who graduated from John Abbott College. This was done for our Game Programming Project. 
