@@ -8,7 +8,7 @@ to create sprites, how we should access an image and/or audio file, how we can m
 
 
 # Our Game
-## ✒️Game Description
+## ✒️ Game Description
 
 In this scary game, the player must find his way out of the cannibal's house. In order to do so,
 the player must go search in multiple rooms to find the keys that unlocks a door. If the player is
