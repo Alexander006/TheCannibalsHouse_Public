@@ -1,0 +1,204 @@
+{
+	"images": [ 
+		{
+			"name": "walls",
+			"path": "./assets/images/walls.png",
+			"width": 768,
+			"height": 720
+		},
+		{
+			"name": "floors",
+			"path": "./assets/images/floors.png",
+			"width": 384,
+			"height": 768
+		},
+		{
+			"name": "props_1",
+			"path": "./assets/images/props_1.png",
+			"width": 768,
+			"height": 768
+		},
+		{
+			"name": "props_2",
+			"path": "./assets/images/props_2.png",
+			"width": 768,
+			"height": 768
+		},
+		{
+			"name" : "monsters",
+			"path" : "./assets/images/monsters.png",
+			"width" : 832,
+			"height": 586
+		},
+		{
+			"name":"zombies",
+			"path":"./assets/images/zombie_sprites.png",
+			"width":416,
+			"height":192
+		},
+		{
+			"name" : "player",
+			"path" : "./assets/images/player_sprites.png",
+			"width" : 576,
+			"height" : 384
+		},
+		{
+			"name" : "halo",
+			"path" : "./assets/images/halo_effect.png",
+			"width" : 900,
+			"height" : 900
+		},
+		{
+			"name" : "title-background",
+			"path" : "./assets/images/titlescreen-background.png",
+			"width" : 996,
+			"height" : 539
+		},
+		{
+			"name" : "door",
+			"path" : "./assets/images/doors.png",
+			"width" : 384,
+			"height" : 96
+		},
+		{
+			"name" : "key",
+			"path" : "./assets/images/key.png",
+			"width" : 48,
+			"height" : 48
+		},
+		{
+			"name" : "skull",
+			"path" : "./assets/images/skull.png",
+			"width" : 48,
+			"height" : 48
+		}
+	],
+	"fonts": [
+		{
+			"name": "BloodyCre",
+			"path": "./assets/fonts/BLOODY_CRE.ttf"
+		}
+	],
+	"sounds": [
+		{
+			"name": "step",
+			"path": "./assets/sounds/step.wav",
+			"size": 1,
+			"volume": 0.3
+		},
+		{
+			"name": "door_open",
+			"path": "./assets/sounds/door_open.wav",
+			"size": 1,
+			"volume": 0.5
+		},
+		{
+			"name": "door_locked",
+			"path": "./assets/sounds/door_locked.wav",
+			"size": 1,
+			"volume": 0.5
+		},
+		{
+			"name": "pickup_jingle",
+			"path": "./assets/sounds/pickup_jingle.wav",
+			"size": 1,
+			"volume": 0.5
+		},
+		{
+			"name": "door_unlock",
+			"path": "./assets/sounds/door_unlock.wav",
+			"size": 1,
+			"volume": 0.5
+		},
+		{
+			"name": "drawer_unlock",
+			"path": "./assets/sounds/drawer_unlock.wav",
+			"size": 1,
+			"volume": 0.5
+		},
+		{
+			"name": "pickup_paper",
+			"path": "./assets/sounds/pickup_paper.wav",
+			"size": 1,
+			"volume": 0.5
+		},
+		{
+			"name": "amb_wind",
+			"path": "./assets/sounds/amb_wind.wav",
+			"size": 1,
+			"volume": 0.1,
+			"loop" : true
+		},
+		{
+			"name": "puzzle_room_A",
+			"path": "./assets/sounds/amb_puzzleroomA.wav",
+			"size": 1,
+			"volume": 0.3,
+			"loop" : true
+		},
+		{
+			"name": "puzzle_room_B",
+			"path": "./assets/sounds/amb_puzzleroomB.wav",
+			"size": 1,
+			"volume": 0.1,
+			"loop" : true
+		},
+		{
+			"name": "damage",
+			"path": "./assets/sounds/damage.wav",
+			"size": 1,
+			"volume": 0.3
+		},
+		{
+			"name": "menu_scroll",
+			"path": "./assets/sounds/menu_scroll.wav",
+			"size": 1,
+			"volume": 0.4
+		},
+		{
+			"name": "menu_select",
+			"path": "./assets/sounds/menu_select.wav",
+			"size": 1,
+			"volume": 0.7
+		},
+		{
+			"name": "skull_move",
+			"path": "./assets/sounds/skull_move.wav",
+			"size": 1,
+			"volume": 0.6,
+			"loop": true
+		},
+		{
+			"name": "drag",
+			"path": "./assets/sounds/moveable_drag.wav",
+			"size": 1,
+			"volume": 0.2
+		},
+		{
+			"name": "gore_burst",
+			"path": "./assets/sounds/gore_burst.wav",
+			"size": 1,
+			"volume": 0.8
+		},
+		{
+			"name": "skull_jumpscare",
+			"path": "./assets/sounds/skull_jumpscare.wav",
+			"size": 1,
+			"volume": 1
+		},
+		{
+			"name": "amb_hub",
+			"path": "./assets/sounds/amb_hub.wav",
+			"size": 1,
+			"volume": 0.2,
+			"loop" : true
+		},
+		{
+			"name": "title_music",
+			"path": "./assets/sounds/title_music.wav",
+			"size": 1,
+			"volume": 0.6,
+			"loop" : true
+		}
+	]
+}
