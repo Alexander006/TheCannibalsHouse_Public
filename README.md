@@ -1,11 +1,13 @@
 # The Cannibal's House Public
 
-### Context
+## Context
 This project was created by me and a former colleague of mine who graduated from John Abbott College. This was done for our Game Programming Project. 
 With the knowledge given by the teacher of the concepts of Game Development and proper coding practice, we are both greateful to have reached this
 stage of not only our coding knowledge in JavaScript handling back end logic but also how to organize code, what architecture patterns we should use
 to create sprites, how we should access an image and/or audio file, how to make the game more dynamic, how to implement animation etc....
 
+
+# Our Game
 ## ✒️Game Description
 
 In this scary game, the player must find his way out of the cannibal's house. In order to do so,
