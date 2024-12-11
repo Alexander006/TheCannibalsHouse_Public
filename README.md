@@ -6,7 +6,7 @@ With the knowledge given by the teacher of the concepts of Game Development and 
 stage of not only our coding knowledge in JavaScript handling back end logic but also how to organize code, what architecture patterns we should use
 to create sprites, how we should access an image and/or audio file, how to make the game more dynamic, how to implement animation etc....
 
-## Game Description
+## ✒️Game Description
 
 In this scary game, the player must find his way out of the cannibal's house. In order to do so,
 the player must go search in multiple rooms to find the keys that unlocks a door. If the player is
